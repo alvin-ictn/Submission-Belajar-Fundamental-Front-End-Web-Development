@@ -16,3 +16,5 @@ Bintang 4 : Semua ketentuan terpenuhi, memiliki tampilan yang menarik, menggunak
 
 Bintang 5 : Semua ketentuan terpenuhi, memiliki tampilan yang menarik, menggunakan package pihak ketiga, kode rapi, dan bermain-main atau bereksplorasi dengan penggunaan plugin dan loader pada penerapan Webpack.
 */
+
+console.log("more")
