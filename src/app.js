@@ -17,4 +17,9 @@ Bintang 4 : Semua ketentuan terpenuhi, memiliki tampilan yang menarik, menggunak
 Bintang 5 : Semua ketentuan terpenuhi, memiliki tampilan yang menarik, menggunakan package pihak ketiga, kode rapi, dan bermain-main atau bereksplorasi dengan penggunaan plugin dan loader pada penerapan Webpack.
 */
 
-no progress
+import "regenerator-runtime";
+import "./styles/style.css";
+import "./script/component/navbar.js";
+import apps from "./script/view/main.js";
+ 
+document.addEventListener("DOMContentLoaded", apps);
